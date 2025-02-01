@@ -3,6 +3,7 @@ django_saas_app.code-workspace
 src/saashome/__pycache__
 src/db.sqlite3
 
+__pycache__/
 build/
 coverage/
 npm-debug.log
